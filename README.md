@@ -1,7 +1,7 @@
 # Developer Help Center
 
 A full-stack web application similar to Stack Overflow, designed to help users find answers to queries, share solutions, and contribute knowledge.
-
+![Developer Help Center](https://github.com/sahil1476/Developer-Help-Center/blob/main/Img/1.png)
 ## Features
 
 - **Query Search**: Optimized search functionality for finding relevant answers quickly.
